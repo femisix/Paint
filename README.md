@@ -1,0 +1,1 @@
+This application allows users to personalize a 3D shirt by changing its color, uploading a logo and download the image. Whether you want to design your own shirt or explore creative options, this app has got you covered.
